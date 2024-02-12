@@ -22,6 +22,4 @@ Reacting to multiple reports progressed my computer skills and multi-tasking abi
 
 Projects
 
-#####
-
-Bike Study
+####
