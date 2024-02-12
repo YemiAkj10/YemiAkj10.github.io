@@ -1,10 +1,15 @@
 Data Scientist
+
 Technical Skills: Python, SQL, R, Machine Learning, Tableau, MATLAB
+
 Education
+
 M.S., Data Science | The University of Miami (August 2024)
+
 B.S., Biochemistry | Briarcliff University (May 2022)
 
 Work Experience
+
 Marketing Nutrition Services @ Third Space, Canary Wharf, England (August 2022 - August 2023)
 
 Built loyal clientele of diverse backgrounds through communication and relatability
