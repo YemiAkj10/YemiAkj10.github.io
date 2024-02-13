@@ -10,14 +10,14 @@
 
 ## Work Experience
 
-**Marketing Nutrition Services @ Third Space, Canary Wharf, England (_August 2022 - August 2023_)
+Marketing Nutrition Services @ Third Space, Canary Wharf, England (_August 2022 - August 2023_)
 
 - Built loyal clientele of diverse backgrounds through communication and relatability
 - Recognized by management after average customer satisfaction rating of 98%
 - Marketing New Protein Supplements to clients, corresponding with vendors leading to a 40% increase in monthly sales
 - Conducted regular stock checks using inventory management systems, which minimized out of stock incidents by 30%
 
-**Medical Scribe @ St. Lukes Emergency Room, Scribe America LLC (_September 2019 - April 2020_)
+Medical Scribe @ St. Lukes Emergency Room, Scribe America LLC (_September 2019 - April 2020_)
 
 - Fast paced environment forced me to use Organizational skills to maintain multiple EMR charts and update their HPI simultaneously
 - Interacting with many lab reports and charts enabled me to develop analytical skills and become more detail oriented
