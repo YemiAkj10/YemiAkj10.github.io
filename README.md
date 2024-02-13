@@ -30,12 +30,17 @@
 ### ECG Peak identification and Classification
 [Peak Identification](https://github.com/YemiAkj10/ECG-Peak-detection/blob/main/ECG_Project%20P1_YAKJ.ipynb)
 [ECG Classification and HyperParameters](https://github.com/YemiAkj10/ECG-Classification)
+
+Our project utilizes machine learning models like KNearest Neighbours, Decision Tree Classifiers, Linear Regression, and Random Forest Regressors to analyze ECG data. By leveraging these techniques, we aim to uncover patterns in the data and develop predictive models for cardiac health. This research not only contributes valuable insights to cardiology but also provides practical experience for potential internships in healthcare or biomedical industries.
+
 ### Housing_Prices (PreProcessing Data, Hyper Parameter tuning)
-(https://github.com/YemiAkj10/Project_Housing_Price/blob/main/PreProcessing_Housing_Price_Data.ipynb)
+[PreProcessing](https://github.com/YemiAkj10/Project_Housing_Price/blob/main/PreProcessing_Housing_Price_Data.ipynb)
 [Hyper Parameters Evaluation](https://github.com/YemiAkj10/Project_Housing_Price/blob/main/MachineLearningModels_Accuracy_Evaluation.ipynb)
+
+This project focuses on predicting housing prices using advanced machine learning algorithms such as KNearest Neighbours, Decision Tree Classifiers, Linear Regression, and Random Forest Regressors. We meticulously evaluate hyperparameters to optimize model performance and emphasize effective data preprocessing techniques to enhance data quality. Through our research, we aim to provide accurate predictions for the housing market, facilitating informed decision-making in real estate.
 
 ### SuperMaid_Database (Construction and deployment)
 [Database](https://github.com/YemiAkj10/SuperMaid_Database)
 
 ### Parkinsons-Linear-Regression
-[Markdown]https://github.com/YemiAkj10/Parkinsons-Linear-Regression/blob/main/docs/index.html
+[Markdown](https://github.com/YemiAkj10/Parkinsons-Linear-Regression/blob/main/docs/index.html)
