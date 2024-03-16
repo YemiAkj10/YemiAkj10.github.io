@@ -34,6 +34,9 @@
 
 This project utilizes machine learning models like KNearest Neighbours, Decision Tree Classifiers, Linear Regression, and Random Forest Regressors to analyze ECG data. By leveraging these techniques, we aim to uncover patterns in the data and develop predictive models for cardiac health. This research not only contributes valuable insights to cardiology but also provides practical experience for potential internships in healthcare or biomedical industries.
 
+### PCA Generative Faces
+[PCA Faces Generative Model](https://github.com/YemiAkj10/PCA_Generative_Faces/blob/main/PCA_Faces_Generative_Model.ipynb)
+
 ### Housing_Prices (PreProcessing Data, Hyper Parameter tuning)
 [PreProcessing](https://github.com/YemiAkj10/Project_Housing_Price/blob/main/PreProcessing_Housing_Price_Data.ipynb)
 
