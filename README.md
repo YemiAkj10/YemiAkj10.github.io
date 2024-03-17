@@ -37,6 +37,8 @@ This project utilizes machine learning models like KNearest Neighbours, Decision
 ### PCA Generative Faces
 [PCA Faces Generative Model](https://github.com/YemiAkj10/PCA_Generative_Faces/blob/main/PCA_Faces_Generative_Model.ipynb)
 
+In this project, we have demonstrated the application of Principal Component Analysis (PCA) to explore the structure of face data. By reducing the dimensionality of the dataset and visualizing the principal components, we have gained insights into the underlying variations in facial features. This project highlights the utility of PCA in understanding high-dimensional data and provides valuable insights into the structure of human faces.
+
 ### Housing_Prices (PreProcessing Data, Hyper Parameter tuning)
 [PreProcessing](https://github.com/YemiAkj10/Project_Housing_Price/blob/main/PreProcessing_Housing_Price_Data.ipynb)
 
