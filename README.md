@@ -35,6 +35,11 @@
 
 ## Projects
 
+## 2D-CNN-for-Accurate-COVID-19-Diagnosis-Using-CT-Imaging
+[2D-CNN-for-Accurate-COVID-19-Diagnosis-Using-CT-Imaging](https://github.com/YemiAkj10/2D-CNN-for-Accurate-COVID-19-Diagnosis-Using-CT-Imaging/blob/main/HW5_SUB2.ipynb)
+
+Developed a 2D convolutional neural network (CNN) for diagnosing COVID-19 using CT images to differentiate between infected and non-infected cases. The project involved modifying Resnet-18 or Resnet-50 architectures for binary classification. Implemented and compared two approaches: training the CNN from scratch with random weights and utilizing transfer learning with pretrained weights, achieving accuracy targets of ≥90% for both methods. Visualized model performance using CAM methods (GradCAM and EigenCAM) to provide insights into model decision-making. The project demonstrated the effectiveness of transfer learning in medical image classification and delivered clear visualizations to enhance model interpretability
+
 ### ECG Peak identification and Classification
 [Peak Identification](https://github.com/YemiAkj10/ECG-Peak-detection/blob/main/ECG_Project%20P1_YAKJ.ipynb)
 
