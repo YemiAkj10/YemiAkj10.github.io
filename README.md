@@ -10,7 +10,7 @@
 
 ## Work Experience
 
-**MUFG Summer Analyst(_June 2024 - August 2025_)
+**MUFG Summer Analyst** (_June 2024 - August 2025_)
 
 - Automated production of a report at MUFG by developing a Python script to process over 12,000 Excel data samples, creating Pivot tables for outstanding payments by age buckets,
   and generating charts to display debt changes over time.
