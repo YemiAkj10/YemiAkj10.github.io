@@ -10,6 +10,14 @@
 
 ## Work Experience
 
+**MUFG Summer Analyst(_June 2024 - August 2025_)
+
+- Automated production of a report at MUFG by developing a Python script to process over 12,000 Excel data samples, creating Pivot tables for outstanding payments by age buckets,
+  and generating charts to display debt changes over time.
+- Enhanced BI dashboards by automating Power BI and Tableau, connecting them to the main SQL server using an ODBC connection established within a Python script.
+- Leveraged the Microsoft ecosystem (Power Automate, Power Apps, and SharePoint) to streamline dashboard automation and data integration.
+- Utilized SQL queries to support the integration and analysis of large datasets, improving reporting accuracy and efficiency.
+  
 **Marketing Nutrition Services @ Third Space, Canary Wharf, England** (_August 2022 - August 2023_)
 
 - Built loyal clientele of diverse backgrounds through communication and relatability
